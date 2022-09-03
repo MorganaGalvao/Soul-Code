@@ -1,0 +1,32 @@
+<
+</head>
+		
+<body>
+ <i>
+	<h1> "TOP 5 FILMES FAVORITOS"</i></h1><BR/></i>
+	<h2> TOSACANA (2022) </h2><br/>
+	<img src="https://www.oficinadanet.com.br/media/post/23817/750/oscana.jpg " width="300">
+	<p>O longa acompanha Theo (Anders Matthesen) um chefe de cozinha da Dinamarca bastante irritado, cheio de rótulos e comportamentos típicos da profissão, que se vê tendo que viajar para Itália depois que seu pai vem a falecer. Ele acaba herdando um castelo com plantações de produtos da região. A sua chegada na Itália é repleta de dúvidas: O que fazer com os bens herdados? A ideia inicial é vender tudo, só que no meio dessa história está a Sophia (Cristiana Dell'Anna).
+		<p>
+	<h3> AINDA ESTOU AQUI (2022)</h3><br/>
+	<img src="https://www.oficinadanet.com.br/media/post/23817/750/inda-estou-aqui.jpg" width="300">
+    <p>Ainda Estou Aqui é um drama em que uma adolescente acaba perdendo o amor de sua vida em um trágico acidente. A jovem fica arrasada e não demora muito para ela achar que ele está se comunicando com ela do além. Tessa viveu muitos anos em lares adotivos e tem uma visão negativa da vida. Quando conhece o garoto chamado Skylar ela é desafiada, pois até então acreditava que ninguém a amaria, só que quando finalmente encontra alguém, acontece um acidente.
+    	<p>
+	<h4>PROJETO GEMINI (2019)</h4><br/>
+	<img src="https://www.oficinadanet.com.br/media/post/23817/750/gemini.jpg" width="300">
+    <p>Um filme com o Will Smith entra para o catálogo da Netflix. Uma agência secreta do governo tem uma missão. Para isso acaba criando um clone mais jovem e mais forte de um atirador recém-aposentado, para quê? matá-lo.
+        <p>    
+	<h5> JONH WICK 2</h5><br/>
+	<img src="https://www.oficinadanet.com.br/media/post/23817/750/john-wick-2.jpg" width="300">
+    <p>John Wick (Keanu Reeves) acreditava que iria se aposentar, mas ele está de volta, isso porque os seus planos são interrompidos com a reaparição de Santino D'Antonio (Riccardo Scarmacio). Ao retornar do submundo do crime, ele descrobre que existe uma grande recompensa pelo seu pescoço.
+        <p> 
+	<h6> VINGANÇA & CASTIGO (2021),</h6><br/>
+	<img src= "https://www.oficinadanet.com.br/media/post/23817/750/vinganca-e-castigo.jpg" width="300">
+    <p>O filme faroeste de ação e aventura com drama acompanha a história do bandido Nat Love, que tem sede por vingança desde a morte de seus pais. Ele reúne seu bando para derrotar o impiedoso Rufus Buck, um criminoso que acaba de sair da prisão.
+    	<p>
+</body>
+<body><center> <h5> <b>Morgana Galvão</b></h5>
+	  
+	  <a href="https://www.linkedin.com/in/morgana-maria-galvao-48258326/">Meu Linkedin</a>
+</body>	  
+</html
